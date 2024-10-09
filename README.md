@@ -1,11 +1,28 @@
-# <img src="https://raw.githubusercontent.com/bobocode-projects/resources/master/image/logo_transparent_background.png" height=50/>Welcome to the Java Web Exercises
-Build strong networking and web development skills that you will need for real-world Enterprise Java development
+# Spring Framework Account REST API Solution
 
-## Why
-Most people don’t know how to learn Enterprise Java efficiently. So we created an **open-source education system**
-that helps them to **master strong skills**, learn **world best practices** and build a **successful career**. 🚀
+Este repositório contém a solução para a atividade de criação de uma **API REST de gerenciamento de contas** utilizando o **Spring Framework**.
 
-At Bobocode we have extensive experience in both building Enterprise Java applications and organizing efficient learning.
-Therefore, this course covers what you need in the most efficient way. We believe that
-**the key to efficient learning is practice**. 💪 And as a software engineer, you should **spend as much time as you can in the IDE writing code**.
-At the end of the day, this is the only place where you build software... 💻
+## Sobre a Atividade
+
+A atividade faz parte do curso de **Java Web Development** e foi criada para ajudar no desenvolvimento de habilidades em **redes** e **desenvolvimento web** com **Java Enterprise**. O objetivo é construir uma API RESTful para gerenciar contas de usuários, abrangendo conceitos como rotas, métodos HTTP, serialização e desserialização de dados, além da integração com banco de dados.
+
+## Propósito
+
+Este projeto tem como objetivo colocar em prática os conceitos aprendidos sobre o desenvolvimento de aplicações web utilizando o **Spring Framework**, permitindo:
+- Construir uma API REST para criação, atualização, consulta e exclusão de contas.
+- Aplicar melhores práticas de programação com Java e Spring.
+- Fortalecer as habilidades de programação através de exercícios práticos.
+
+## Estrutura
+
+O projeto foi estruturado de forma simples, seguindo as boas práticas recomendadas pela comunidade Spring e Java Enterprise.
+
+- **Controllers**: Implementa as rotas REST para gerenciamento de contas.
+- **Services**: Lógica de negócios responsável pelas operações com contas.
+- **Repositories**: Comunicação com o banco de dados utilizando JPA.
+- **Models**: Representação das entidades do domínio (contas).
+
+## Testes
+
+![image](https://github.com/user-attachments/assets/e8363697-fbef-4e4b-9c36-9e90399db0e8)
+
